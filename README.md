@@ -1,17 +1,17 @@
 
 # 💬 Sobre mim:
 
- Treinando para ser Full-Stack <br>🎓 Desenvolvimento de Software e Multiplataforma <br>🎓 Fatec - Registro <br>⚡ Hobbies: Jogos, Musica e Musculação
+ Desenvolvedor Front-End <br>🎓 Desenvolvimento de Software e Multiplataforma <br>🎓 Fatec - Registro <br>⚡ Hobbies: Jogos, Musica e Musculação
 
 
-# <img src="./assets/fatec-registro.jpeg" width="75px" style="margin: 0 15px 0 0; border-radius: 99%" align="left"> 2º Semestre da Graduação
+# <img src="./assets/fatec-registro.jpeg" width="75px" style="margin: 0 15px 0 0; border-radius: 99%" align="left"> 4º Semestre da Graduação
 
 <br> 🗓️ 02/2023 - Até Agora
 
-📌 Java Swing<br>
-📌 Php<br>
-📌 C<br>
-📌 UX&UI Design com Figma<br>
+📌 React<br>
+📌 Express<br>
+📌 Bootstrap<br>
+📌 Figma<br>
 
 ---
 
@@ -27,17 +27,22 @@
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![C](https://img.shields.io/badge/C-%23000000.svg?style=for-the-badge&logo=C&logoColor=white)
+![](https://shields.io/badge/react-black?logo=react&style=for-the-badge)![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ---
 
-# 📊 Estátisticas GitHub:
+# Badges 
 
-![](https://github-readme-stats.vercel.app/api?username=eliharison&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=eliharison&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=eliharison&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 Troféus GitHub
+---
 
-![](https://github-profile-trophy.vercel.app/?username=eliharison&theme=alduin&no-frame=false&no-bg=true&margin-w=4)
+# 📊 GitHub:
+
+| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eliharison&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) | ![](https://github-profile-trophy.vercel.app/?username=eliharison&theme=alduin&no-frame=false&no-bg=true&margin-w=4) |
+|---|---|
+
+
+
+
+
 
