@@ -1,6 +1,6 @@
 # 💬 Sobre mim:
 
- Desenvolvedor Front-End <br>🎓 Desenvolvimento de Software e Multiplataforma <br>🎓 Fatec - Registro <br>⚡ Hobbies: Jogos, Musica e Musculação
+ Desenvolvedor Full-Stack <br>🎓 Desenvolvimento de Software e Multiplataforma <br>🎓 Fatec - Registro <br>⚡ Hobbies: Jogos, Musica e Musculação
 
 
 # <img src="./assets/fatec-registro.jpeg" width="75px" style="margin: 0 15px 0 0; border-radius: 99%" align="left"> 4º Semestre da Graduação
