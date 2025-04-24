@@ -1,41 +1,74 @@
-# 💬 Sobre mim:
+# Olá! 👋 Eu sou **Eliharison Gabriel**
 
- Desenvolvedor Full-Stack <br>🎓 Desenvolvimento de Software e Multiplataforma <br>🎓 Fatec - Registro <br>⚡ Hobbies: Jogos, Musica e Musculação
-
-
-# <img src="./assets/fatec-registro.jpeg" width="75px" style="margin: 0 15px 0 0; border-radius: 99%" align="left"> 4º Semestre da Graduação
-
-<br> 🗓️ 02/2023 - Até Agora
-
-📌 React<br>
-📌 Express<br>
-📌 Bootstrap<br>
-📌 Figma<br>
+Bem-vindo ao meu cantinho na internet! Sou um Desenvolvedor Full-Stack apaixonado, Nascido e vivendo em Registro-SP, sempre em busca de desafios empolgantes e novas tecnologias para aprender e aplicar.
 
 ---
 
-## 📫 Redes Sociais:
+## 🚀 Sobre Mim
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eliharison)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/elihszd)[![EmpregaOne](https://img.shields.io/badge/Perfil-FF7F41?style=for-the-badge)](https://cursos.alura.com.br/emprega-one/profile/eliharison11)
+- 🎓 **Formação:** 5º semestre na Fatec Registro – Desenvolvimento de Software Multiplataforma (02/2023 – Presente)
+- 💻 **Atuação:** Desenvolvedor Full-Stack
+- ❤️ **Paixões:** Construir interfaces intuitivas, desenvolver backends robustos e criar experiências fluídas.
+- ⚡ **Hobbies:** Games 🎮, Música 🎵 e Fitness 💪
 
 ---
 
-# 💻 Técnologias:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+## 🌟 Skills & Ferramentas
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="20%" alt="HTML5"/><br>HTML5</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="20%" alt="CSS3"/><br>CSS3</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20%" alt="JavaScript"/><br>JavaScript</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20%" alt="React"/><br>React</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="20%" alt="Node.js"/><br>Node.js</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js"/><br>Next.js</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="40" alt="Tailwind CSS"/><br>Tailwind CSS</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" alt="Express"/><br>Express</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap"/><br>Bootstrap</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" alt="Git"/><br>Git</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" alt="Figma"/><br>Figma</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg" width="40" alt="Notion"/><br>Notion</td>
+  </tr>
+</table>
 
-![](https://shields.io/badge/react-black?logo=react&style=for-the-badge)![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+---
 
-# Badges <img src="./assets/Badge-Portfolio.png" width="100px" style="margin: 0 15px 0 0; border-radius: 99%" align="center"><img src="./assets/Badge-AluraGeek.png" width="100px" style="margin: 0 15px 0 0; border-radius: 99%" align="center"><img src="./assets/Badge-AluraFlix.png" width="100px" style="margin: 0 15px 0 0; border-radius: 99%" align="center"> 
+## 📂 Projetos em Destaque
 
-# 📊 GitHub:
+| Projeto          | Descrição                                                   | Tech Stack                       |
+|------------------|-------------------------------------------------------------|----------------------------------|
+| **Eternizze**    | Projeto pessoal com a finalidade de impactar uma pessoa!    | Next.js, Tailwind, PostgreSQL    |
+| **Alura Flix**   | Plataforma de streaming estilo Netflix para filmes e séries | JavaScript, HTML, CSS            |
+| **AquaSense-Web**| Sistema de monitoramento da qualidade da água               | Node.js, EJS, Express            |
 
-| ![](https://github-profile-trophy.vercel.app/?username=eliharison&theme=alduin&no-frame=false&no-bg=true&margin-w=4) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eliharison&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) |
-|---|---|
+*Veja mais projetos no meu [GitHub](https://github.com/Eliharison)*
 
+---
 
+## 📫 Vamos nos conectar
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue)](https://linkedin.com/in/eliharison)  
+[![Instagram](https://img.shields.io/badge/Instagram-Contato-purple)](https://instagram.com/elihszd)  
+[![EmpregaOne](https://img.shields.io/badge/EmpregaOne-Perfil-green)](https://cursos.alura.com.br/emprega-one/profile/eliharison11)
 
+✉️ **E-mail:** eliharison@outlook.com.br
 
+---
 
+## 📈 Estatísticas no GitHub
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Eliharison&show_icons=true&theme=radical" 
+    height="200" weight="44.5%"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eliharison&layout=compact&theme=radical" 
+    height="200" weight="44.5%"
+  />
+</p>
